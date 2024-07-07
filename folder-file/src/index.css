@@ -1,0 +1,19 @@
+.folder{
+  margin-left: 20px;
+}
+
+.create-folder{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input{
+  margin-left: 20px;
+}
+
+.add-btn{
+  position: absolute;
+  top:10px;
+  left: 95px;
+}
